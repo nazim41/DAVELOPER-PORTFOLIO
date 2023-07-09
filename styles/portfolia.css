@@ -146,14 +146,16 @@ justify-content: space-around;
 
 .skill-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .rhead{
     text-align: center;
+    text-decoration: underline;
 }
 
 .resume-mother{
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 
 
