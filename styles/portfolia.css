@@ -138,6 +138,70 @@ justify-content: space-around;
     padding: 30px 150px;
 }
 
+.skills{
+    padding:20px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+
 .skill-container{
     display: flex;
+}
+.rhead{
+    text-align: center;
+}
+
+.resume-mother{
+    display: flex;
+    gap: 30px;
+}
+
+
+.resume-btn{
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+footer{
+    background-color: #FFF8F3;
+    height:780px;
+display: flex;
+padding-top: 140px;
+}
+
+.fcontact{
+    width: 550px;
+    margin: 0 auto;
+
+}
+
+.fform{
+    width: 450px;
+    margin: 0 auto;
+
+}
+input{
+    display: block;
+    width: 420px;
+    height: 55px;
+    margin: 22px 0px;
+
+}
+#btf{
+display: block;
+}
+.tarea{
+    height: 180px;
+    width: 200px;
+}
+
+i{
+    height: 25px;
+    width: 25px;
+    margin-right: 20px;
+}
+input::placeholder{
+    margin-left: 30px;
 }
